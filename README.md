@@ -23,6 +23,7 @@ https://github.com/Gayane25/lesson006_ScopeAndClosure/blob/master/redundantStr.j
 
 3 .Write a function that returns an anonymous function, which transforms its input by adding a
 particular suffix at the end.
+
 add_ly = add_suffix("ly");
 add_ly("hopeless"); // "hopelessly"
 add_ly("total"); // "totally"
@@ -30,3 +31,9 @@ add_less = add_suffix("less");
 add_less("fear"); // "fearless"
 add_less("ruth"); // "ruthless"
 https://github.com/Gayane25/lesson006_ScopeAndClosure/blob/master/addSuffix.js
+
+5 Write a function that implements filtering in array
+const values = [null, true, {}, { name: "Elon" }, "", NaN, 0];
+filterFalsyValues(values); // [true, {}, { name: "Elon" }];
+filterFalsyValues(["hello", 1233, []]); // ['hello', 1233, []]
+https://github.com/Gayane25/lesson006_ScopeAndClosure/blob/master/filterFalsyVal.js
