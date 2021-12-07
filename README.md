@@ -48,3 +48,6 @@ https://github.com/Gayane25/lesson006_ScopeAndClosure/blob/master/uniqueVals.js
 
 8 Determine if a word or phrase is an isogram. An isogram (also known as a "non pattern word") is a word or phrase without a repeating letter.
 https://github.com/Gayane25/lesson006_ScopeAndClosure/blob/master/checkIsogram.js
+
+9 Given an array of numbers. Find the sum of numbersʼ quadratic which are even.
+https://github.com/Gayane25/lesson006_ScopeAndClosure/blob/master/quadroEven.js
