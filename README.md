@@ -51,3 +51,6 @@ https://github.com/Gayane25/lesson006_ScopeAndClosure/blob/master/checkIsogram.j
 
 9 Given an array of numbers. Find the sum of numbersʼ quadratic which are even.
 https://github.com/Gayane25/lesson006_ScopeAndClosure/blob/master/quadroEven.js
+
+10 Check whether string is palindrome, or not.
+https://github.com/Gayane25/lesson006_ScopeAndClosure/blob/master/isPolindrome.js
