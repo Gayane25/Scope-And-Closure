@@ -37,3 +37,8 @@ const values = [null, true, {}, { name: "Elon" }, "", NaN, 0];
 filterFalsyValues(values); // [true, {}, { name: "Elon" }];
 filterFalsyValues(["hello", 1233, []]); // ['hello', 1233, []]
 https://github.com/Gayane25/lesson006_ScopeAndClosure/blob/master/filterFalsyVal.js
+
+6. Write a function which remove elements with length <= 3
+   filterByLength(["kia", "tesla", "bmw", "mercedes"]); // ['tesla',
+   'mercedes']
+   https://github.com/Gayane25/lesson006_ScopeAndClosure/blob/master/filterByLength.js
