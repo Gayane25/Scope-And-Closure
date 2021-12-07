@@ -45,3 +45,6 @@ https://github.com/Gayane25/lesson006_ScopeAndClosure/blob/master/filterFalsyVal
 
 7 Given an array. Determine whether it consists only from uniques or not.
 https://github.com/Gayane25/lesson006_ScopeAndClosure/blob/master/uniqueVals.js
+
+8 Determine if a word or phrase is an isogram. An isogram (also known as a "non pattern word") is a word or phrase without a repeating letter.
+https://github.com/Gayane25/lesson006_ScopeAndClosure/blob/master/checkIsogram.js
