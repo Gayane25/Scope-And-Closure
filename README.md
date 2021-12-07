@@ -42,3 +42,6 @@ https://github.com/Gayane25/lesson006_ScopeAndClosure/blob/master/filterFalsyVal
    filterByLength(["kia", "tesla", "bmw", "mercedes"]); // ['tesla',
    'mercedes']
    https://github.com/Gayane25/lesson006_ScopeAndClosure/blob/master/filterByLength.js
+
+7 Given an array. Determine whether it consists only from uniques or not.
+https://github.com/Gayane25/lesson006_ScopeAndClosure/blob/master/uniqueVals.js
