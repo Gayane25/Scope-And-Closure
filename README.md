@@ -20,3 +20,13 @@ const f3 = redundant("");
 //f3() ➞ ""
 
 https://github.com/Gayane25/lesson006_ScopeAndClosure/blob/master/redundantStr.js
+
+3 .Write a function that returns an anonymous function, which transforms its input by adding a
+particular suffix at the end.
+add_ly = add_suffix("ly");
+add_ly("hopeless"); // "hopelessly"
+add_ly("total"); // "totally"
+add_less = add_suffix("less");
+add_less("fear"); // "fearless"
+add_less("ruth"); // "ruthless"
+https://github.com/Gayane25/lesson006_ScopeAndClosure/blob/master/addSuffix.js
