@@ -32,6 +32,13 @@ add_less("fear"); // "fearless"
 add_less("ruth"); // "ruthless"
 https://github.com/Gayane25/lesson006_ScopeAndClosure/blob/master/addSuffix.js
 
+4 Create a function printAfter that calls its argument after printing hello world
+const print = () => console.log("Elon Musk");
+printAfter(print);
+// 'hello, world'
+// 'Elon Musk'
+https://github.com/Gayane25/lesson006_ScopeAndClosure/blob/master/printAfter.js
+
 5 Write a function that implements filtering in array
 const values = [null, true, {}, { name: "Elon" }, "", NaN, 0];
 filterFalsyValues(values); // [true, {}, { name: "Elon" }];
